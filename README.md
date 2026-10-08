@@ -13,6 +13,4 @@ B.Tech student in AI & Data Science at CGC University, Mohali. I build web appli
 
 Python · JavaScript · TypeScript · React · Node.js · MongoDB
 
-### Contact
 
-[your-email] · [LinkedIn URL]
