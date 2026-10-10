@@ -1,18 +1,86 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 280" width="1280" height="280" role="img" aria-label="Mridul Katoch — B.Tech, AI and Data Science" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo5ZjE2NzE4YS1lM2ZkLTQ0YWYtOTI3NS1hNDRhNjc4MDJmZWQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaHt+7xehQtgaotnb463B3Q0AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoyNDcyM2U3Ny01MzIzLTQwOWQtYjUyYi0xMDc0ZjlmNWI2NjVscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoGyLe5SPebjUsa5qZkPS2ggAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggzd12MfYED3vpeJROhHrbr4XE5wPYfN+jLQdbW9TKZdKkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaDbHzvxWb2zFFJMajiwXCI8AAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBAes8gt/dtgYsrAyy9qNHCq7bM97unEmuBkeebNp9l1mRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjeZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjlmMTY3MThhLWUzZmQtNDRhZi05Mjc1LWE0NGE2NzgwMmZlZC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjE5OWNjYzA1LTY4ZmItNGRjMS1iZjZjLTRkZDRmNmE5Yjc4NnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCDN3XYx9gQPe+l4lE6EetuvhcTnA9h836MtB1tb1Mpl0qJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg7F28Fj9Bs/+vi6QQVi0iocD4dEpCcFp9HpjGqrDOaRyiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggT8y8XdSVaAQRMM2JG67BfqZjRXg2ii29VfV8J0eSKrh0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQGaIE+lmYsivs9eW4v+fLmbDhq+JST8Pex+YqBEH/jT3g6bf82K4y/RlRpWMOdtiUeENYlIl6xQdpeY4eYvcqLQ=</c2pa:manifest></metadata>
-  <defs>
-    <radialGradient id="glow" cx="18%" cy="50%" r="75%">
-      <stop offset="0%" stop-color="#2a211b"/>
-      <stop offset="100%" stop-color="#100e0c"/>
-    </radialGradient>
-    <linearGradient id="rule" x1="0" x2="1" y1="0" y2="0">
-      <stop offset="0%" stop-color="#9c4a2a"/>
-      <stop offset="60%" stop-color="#c9a24b"/>
-      <stop offset="100%" stop-color="#c9a24b" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <rect width="1280" height="280" fill="url(#glow)"/>
-  <rect x="80" y="150" width="560" height="2" fill="url(#rule)"/>
-  <text x="80" y="122" font-family="Georgia, 'Times New Roman', serif" font-size="58" letter-spacing="2" fill="#d8c9a8">MRIDUL KATOCH</text>
-  <text x="80" y="192" font-family="'Courier New', monospace" font-size="20" letter-spacing="3" fill="#8f8478">B.TECH · AI &amp; DATA SCIENCE</text>
-  <text x="80" y="224" font-family="'Courier New', monospace" font-size="16" letter-spacing="2" fill="#6f655b">web systems · machine learning · shipping</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-labelledby="t d">
+<title id="t">Mridul Katoch</title>
+<desc id="d">Banner: Mridul Katoch, B.Tech AI and Data Science student, aspiring Applied AI Engineer.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0b0a09"/><stop offset=".55" stop-color="#17120e"/><stop offset="1" stop-color="#090808"/>
+  </linearGradient>
+  <radialGradient id="gB" cx=".5" cy=".5" r=".5">
+    <stop offset="0" stop-color="#b8915a" stop-opacity=".34"/><stop offset="1" stop-color="#b8915a" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="gO" cx=".5" cy=".5" r=".5">
+    <stop offset="0" stop-color="#7c2d2b" stop-opacity=".55"/><stop offset="1" stop-color="#7c2d2b" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="vig" cx=".5" cy=".5" r=".75">
+    <stop offset=".55" stop-color="#000" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".6"/>
+  </radialGradient>
+  <linearGradient id="nameG" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#ebe4d6"/><stop offset=".7" stop-color="#ebe4d6"/><stop offset="1" stop-color="#d6b27a"/>
+  </linearGradient>
+  <linearGradient id="rule" gradientUnits="userSpaceOnUse" x1="72" y1="0" x2="432" y2="0">
+    <stop offset="0" stop-color="#b8915a"/><stop offset="1" stop-color="#c2693a"/>
+  </linearGradient>
+  <filter id="grain" x="0" y="0" width="100%" height="100%">
+    <feTurbulence type="fractalNoise" baseFrequency=".85" numOctaves="2" stitchTiles="stitch" result="n"/>
+    <feColorMatrix in="n" type="matrix" values="0 0 0 0 .9  0 0 0 0 .85  0 0 0 0 .78  0 0 0 .11 0"/>
+  </filter>
+  <clipPath id="clip"><rect width="1200" height="340" rx="16"/></clipPath>
+</defs>
+<style>
+  .glow1{animation:d1 16s ease-in-out infinite alternate}
+  .glow2{animation:d2 19s ease-in-out infinite alternate}
+  @keyframes d1{from{transform:translate(0,0)}to{transform:translate(-90px,40px)}}
+  @keyframes d2{from{transform:translate(0,0)}to{transform:translate(70px,-30px)}}
+  .spin{transform-box:fill-box;transform-origin:center;animation:spin 140s linear infinite}
+  .spin2{transform-box:fill-box;transform-origin:center;animation:spin 220s linear infinite reverse}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  .node{transform-box:fill-box;transform-origin:center;animation:pulse 3.4s ease-in-out infinite}
+  @keyframes pulse{0%,100%{opacity:.45;transform:scale(1)}50%{opacity:1;transform:scale(1.6)}}
+  .rule{stroke-dasharray:360;animation:draw 1.6s .5s ease-out backwards}
+  @keyframes draw{from{stroke-dashoffset:360}}
+  .fade{animation:fin 1.1s ease-out backwards}
+  @keyframes fin{from{opacity:0}}
+  .tag{opacity:0;animation:cyc 12s ease-in-out infinite both}
+  .tag1{opacity:1;animation-delay:1.2s} .tag2{animation-delay:5.2s} .tag3{animation-delay:9.2s}
+  @keyframes cyc{0%{opacity:0;transform:translateY(8px)}5%,29%{opacity:1;transform:translateY(0)}34%,100%{opacity:0;transform:translateY(-6px)}}
+  .live{transform-box:fill-box;transform-origin:center;animation:live 2.4s ease-in-out infinite}
+  @keyframes live{0%,100%{opacity:.5;transform:scale(1)}50%{opacity:1;transform:scale(1.5)}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g clip-path="url(#clip)">
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <g class="glow1"><circle cx="900" cy="120" r="330" fill="url(#gB)"/></g>
+  <g class="glow2"><circle cx="150" cy="330" r="360" fill="url(#gO)"/></g>
+  <rect width="1200" height="340" filter="url(#grain)" opacity=".55"/>
+
+  <g fill="none" stroke="#b8915a">
+    <circle cx="1060" cy="170" r="70" stroke-opacity=".30"/>
+    <circle class="spin" cx="1060" cy="170" r="120" stroke-opacity=".30" stroke-dasharray="2 9"/>
+    <circle cx="1060" cy="170" r="175" stroke-opacity=".20"/>
+    <circle class="spin2" cx="1060" cy="170" r="235" stroke-opacity=".20" stroke-dasharray="1 14"/>
+    <circle cx="1060" cy="170" r="300" stroke-opacity=".10"/>
+  </g>
+  <g class="spin" style="animation-duration:180s">
+    <g stroke="#b8915a" stroke-opacity=".26" stroke-width="1" fill="none"><line x1="951.2" y1="119.3" x2="1028.9" y2="54.1"/><line x1="1028.9" y1="54.1" x2="1137.1" y2="78.1"/><line x1="1137.1" y1="78.1" x2="1175.9" y2="201.1"/><line x1="1175.9" y1="201.1" x2="1101.0" y2="282.8"/><line x1="1101.0" y1="282.8" x2="968.1" y2="247.1"/><line x1="968.1" y1="247.1" x2="951.2" y2="119.3"/><line x1="887.7" y1="200.4" x2="951.2" y2="119.3"/><line x1="952.3" y1="32.1" x2="1028.9" y2="54.1"/><line x1="1105.3" y1="1.0" x2="1137.1" y2="78.1"/><line x1="1224.4" y1="110.1" x2="1175.9" y2="201.1"/><line x1="1194.1" y1="282.5" x2="1101.0" y2="282.8"/><line x1="1029.6" y1="342.3" x2="968.1" y2="247.1"/><line x1="887.7" y1="200.4" x2="952.3" y2="32.1"/><line x1="952.3" y1="32.1" x2="1105.3" y2="1.0"/><line x1="1105.3" y1="1.0" x2="1224.4" y2="110.1"/></g>
+    <circle class="node" cx="951.2" cy="119.3" r="3.4" fill="#d6b27a" style="animation-delay:0s"/><circle class="node" cx="1028.9" cy="54.1" r="3.4" fill="#b8915a" style="animation-delay:0.6s"/><circle class="node" cx="1137.1" cy="78.1" r="3.4" fill="#b8915a" style="animation-delay:1.2s"/><circle class="node" cx="1175.9" cy="201.1" r="3.4" fill="#d6b27a" style="animation-delay:1.8s"/><circle class="node" cx="1101.0" cy="282.8" r="3.4" fill="#b8915a" style="animation-delay:2.4s"/><circle class="node" cx="968.1" cy="247.1" r="3.4" fill="#b8915a" style="animation-delay:0.3s"/><circle class="node" cx="887.7" cy="200.4" r="2.6" fill="#d6b27a" style="animation-delay:0.9s"/><circle class="node" cx="952.3" cy="32.1" r="2.6" fill="#b8915a" style="animation-delay:1.5s"/><circle class="node" cx="1105.3" cy="1.0" r="2.6" fill="#b8915a" style="animation-delay:2.1s"/><circle class="node" cx="1224.4" cy="110.1" r="2.6" fill="#d6b27a" style="animation-delay:2.7s"/><circle class="node" cx="1194.1" cy="282.5" r="2.6" fill="#b8915a" style="animation-delay:0.2s"/><circle class="node" cx="1029.6" cy="342.3" r="2.6" fill="#b8915a" style="animation-delay:1.1s"/>
+  </g>
+
+  <rect width="1200" height="340" fill="url(#vig)"/>
+
+  <g class="fade" style="animation-delay:.1s">
+    <path d="M60 92 l5 5 -5 5 -5 -5z" fill="#c2693a"/>
+    <text x="78" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="3" fill="#9a9184">B.TECH · AI &amp; DATA SCIENCE · CGC UNIVERSITY, MOHALI</text>
+  </g>
+  <text class="fade" style="animation-delay:.3s" x="68" y="182" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'DejaVu Serif', serif" font-size="68" font-weight="700" letter-spacing="5" fill="url(#nameG)">MRIDUL KATOCH</text>
+  <line class="rule" x1="72" y1="208" x2="432" y2="208" stroke="url(#rule)" stroke-width="2" stroke-linecap="round"/>
+  <path class="fade" style="animation-delay:1.8s" d="M72 246 l6 6 -6 6 -6 -6z" fill="#c2693a"/>
+  <text class="tag tag1" x="96" y="262" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="22" fill="#d6b27a">Aspiring Applied AI Engineer</text><text class="tag tag2" x="96" y="262" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="22" fill="#d6b27a">PyTorch · FastAPI · Computer Vision</text><text class="tag tag3" x="96" y="262" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="22" fill="#d6b27a">Next: RAG · Agents · Evaluation</text>
+
+  <g class="fade" style="animation-delay:2s">
+    <rect x="68" y="288" width="318" height="30" rx="15" fill="none" stroke="#8a9770" stroke-opacity=".6"/>
+    <circle class="live" cx="90" cy="303" r="4" fill="#8a9770"/>
+    <text x="106" y="308" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="1.6" fill="#ebe4d6">OPEN TO AI / ML INTERNSHIPS</text>
+  </g>
+</g>
+<rect x=".5" y=".5" width="1199" height="339" rx="16" fill="none" stroke="#2e2823"/>
 </svg>
