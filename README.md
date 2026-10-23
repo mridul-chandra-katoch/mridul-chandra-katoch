@@ -24,7 +24,7 @@
 <a href="https://github.com/mridul-chandra-katoch/robodoctor-ai-advanced"><img src="card-robodoctor.svg" alt="RoboDoctor AI: team project for Smart India Hackathon 2026. My part: skin-lesion CNN in PyTorch, Grad-CAM, FastAPI inference service." width="49%"></a>
 <a href="https://github.com/mridul-chandra-katoch/fake-accounts-detector-advanced-"><img src="card-fake-accounts.svg" alt="Fake Account Detector: team research project. I led the team and managed integration and the final presentation." width="49%"></a>
 <a href="https://github.com/mridul-chandra-katoch/Mental_Health"><img src="card-mental-health.svg" alt="Mental Health Companion: MERN app with mood tracker, Gemini-powered chat and quiz, anonymous sharing." width="49%"></a>
-<a href="https://github.com/mridul-chandra-katoch/RAG_with_measured_eval"><img src="card-next.svg" alt="Planned, not started: a deployed RAG system with measured evaluation." width="49%">
+<a href="https://github.com/mridul-chandra-katoch/RAG_with_measured_eval"><img src="card-next.svg" alt="WIP, RAG: a deployed RAG system with measured evaluation." width="49%">
 </p>
 
 <sub>**Links:** [RoboDoctor AI repo](https://github.com/mridul-chandra-katoch/robodoctor-ai-advanced) · [live demo](https://robodoctor-ai-advanced.vercel.app/) · [Fake Account Detector repo](https://github.com/mridul-chandra-katoch/fake-accounts-detector-advanced-) · [Mental Health Companion repo](https://github.com/mridul-chandra-katoch/Mental_Health) . [RAG with EVAL](https://github.com/mridul-chandra-katoch/RAG_with_measured_eval)<br>
