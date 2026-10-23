@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 76" width="900" height="76" role="img" aria-label="Background">
+<title>Background</title>
+<defs>
+  <linearGradient id="p" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b1612"/><stop offset="1" stop-color="#0f0d0c"/></linearGradient>
+  <radialGradient id="g" cx="1" cy="0" r="1"><stop offset="0" stop-color="#b8915a" stop-opacity=".14"/><stop offset="1" stop-color="#b8915a" stop-opacity="0"/></radialGradient>
+  <linearGradient id="r" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#b8915a" stop-opacity=".8"/><stop offset="1" stop-color="#b8915a" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<style>
+  .in{animation:i .9s ease-out backwards}
+  .ln{transform-box:fill-box;transform-origin:left center;animation:d 1.4s .2s ease-out backwards}
+  @keyframes i{from{opacity:0}} @keyframes d{from{transform:scaleX(0)}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<rect width="900" height="76" rx="12" fill="url(#p)"/>
+<rect width="900" height="76" rx="12" fill="url(#g)"/>
+<rect x=".5" y=".5" width="899" height="75" rx="12" fill="none" stroke="#2e2823"/>
+<text class="in" x="26" y="44" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="3" fill="#c2693a">04</text>
+<text class="in" x="68" y="44" font-family="Georgia, 'Iowan Old Style', 'Palatino Linotype', 'DejaVu Serif', serif" font-size="26" font-weight="700" letter-spacing="5" fill="#ebe4d6">BACKGROUND</text>
+<text class="in" x="68" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="11.5" letter-spacing="1.5" fill="#9a9184">education, training, community</text>
+<rect class="ln" x="26" y="69" width="848" height="1.2" fill="url(#r)"/>
+</svg>

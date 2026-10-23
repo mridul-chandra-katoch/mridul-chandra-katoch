@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 56" width="250" height="56" role="img" aria-label="LINKEDIN">
+<title>LINKEDIN</title>
+<defs><linearGradient id="p" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b1612"/><stop offset="1" stop-color="#0f0d0c"/></linearGradient></defs>
+<style>
+  .bar{animation:b 5s ease-in-out infinite}
+  @keyframes b{0%,100%{opacity:.5}50%{opacity:1}}
+  @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<rect width="250" height="56" rx="12" fill="url(#p)"/>
+<rect class="bar" x="0" y="14" width="3" height="28" rx="1.5" fill="#b8915a"/>
+<rect x=".5" y=".5" width="249" height="55" rx="12" fill="none" stroke="#2e2823"/>
+<text x="24" y="25" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="2.4" fill="#ebe4d6">LINKEDIN</text>
+<text x="24" y="43" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, 'DejaVu Sans', sans-serif" font-size="12" fill="#9a9184">mridul-katoch-160456364</text>
+<path d="M216 34 l10 -10 m0 0 l-8 0 m8 0 l0 8" fill="none" stroke="#b8915a" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
